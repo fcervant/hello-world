@@ -9,3 +9,4 @@ Inserindo mais alguns ajustes.
 ### Agora estou trabalhando no branch frc_ajustes.
 ### esse aqui eu vou clonar para o VSCode.
 ###
+- clonando o repositorio remotamente
